@@ -1,5 +1,25 @@
 ### Hi there 👋
 
+<!-- Light Mode -->
+<div align="center"> 
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+<img height=200 src="https://github-readme-stats.vercel.app/api?username=Steaunk&show_icons=true" alt="Steaunk's Language stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+<img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Steaunk&layout=compact" alt="Steaunk's Github stats" />
+</a>
+</div>
+
+<!-- Dark Mode -->
+<div align="center"> 
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+<img height=200 src="https://github-readme-stats.vercel.app/api?username=Steaunk&show_icons=true" alt="Steaunk's Language stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+<img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Steaunk&layout=compact" alt="Steaunk's Github stats" />
+</a>
+</div>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Steaunk&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Steaunk&layout=compact)
