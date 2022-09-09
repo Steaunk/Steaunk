@@ -20,10 +20,6 @@
 </a>
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Steaunk&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Steaunk&layout=compact)
-
 ![Zhihu](https://stats.justsong.cn/api/zhihu?username=Steaunk)
 
 [![CSDN](https://stats.justsong.cn/api/csdn?id=Steaunk)](https://blog.csdn.net/Steaunk)
