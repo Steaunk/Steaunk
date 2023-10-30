@@ -20,9 +20,9 @@
 </a>
 </div>
 
-![Zhihu](https://stats.justsong.cn/api/zhihu?username=Steaunk)
+<!--![Zhihu](https://stats.justsong.cn/api/zhihu?username=Steaunk)
 
-[![CSDN](https://stats.justsong.cn/api/csdn?id=Steaunk)](https://blog.csdn.net/Steaunk)
+[![CSDN](https://stats.justsong.cn/api/csdn?id=Steaunk)](https://blog.csdn.net/Steaunk)-->
 
 
 <!--
