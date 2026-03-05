@@ -1,6 +1,6 @@
 ### Hi there 👋
-
 <!-- Light Mode -->
+<!--
 <div align="center"> 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
 <img height=200 src="https://github-readme-stats.vercel.app/api?username=Steaunk&show_icons=true" alt="Steaunk's Language stats" />
